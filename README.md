@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Angelie Auza Portfolio</title>
+    <title>My Portfolio</title>
 </head>
 <body>
 
@@ -16,10 +16,11 @@
 
     <h2>My Projects</h2>
     <p>C Programming Activities</p>
-    <p>School Research Projects</p>
+    <p>School Projects</p>
 
     <h2>Contact</h2>
-    <p>Email: Your email here</p>
+    <p>Email: angelieauza2@gmail.com</p>
 
-</body>
+</body> 
+<p>Hi! I’m Angelie Auza, a college student who is eager to learn and develop new skills. I am currently exploring coding and technology, and although I am still a beginner, I am willing to learn, improve, and take on new challenges. I value hard work, patience, teamwork, and continuous learning as I work toward my future goals.</p>
 </html>
