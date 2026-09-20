@@ -1,1 +1,25 @@
-# Auza-Angelie.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Angelie Auza Portfolio</title>
+</head>
+<body>
+
+    <h1>Hello, I'm Angelie Auza!</h1>
+    <p>College Student | Future Professional</p>
+
+    <h2>About Me</h2>
+    <p>I am a college student learning new skills and exploring coding.</p>
+
+    <h2>My Skills</h2>
+    <p>Communication, teamwork, and basic coding.</p>
+
+    <h2>My Projects</h2>
+    <p>C Programming Activities</p>
+    <p>School Research Projects</p>
+
+    <h2>Contact</h2>
+    <p>Email: Your email here</p>
+
+</body>
+</html>
