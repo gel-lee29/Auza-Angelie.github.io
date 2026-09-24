@@ -14,3 +14,12 @@ p {
     font-size: 20px;
     color: #555555;
 }
+
+.card {
+    background-color: white;
+    width: 70%;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
