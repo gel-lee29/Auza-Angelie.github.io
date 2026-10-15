@@ -1,35 +1,30 @@
-/* General page style */
 body {
-    background-color: #fce4ec;
+    background: #d9efff;
+    color: black;
     font-family: Arial, sans-serif;
-    color: purple;
     text-align: center;
-    padding: 30px;
+    margin: 0;
 }
 
-/* Main title */
-h1 {
-    color: #800080;
-    font-size: 36px;
+header {
+    background: #ffd6e5;
+    padding: 25px;
 }
 
-/* Section headings */
-h2 {
-    color: #9c27b0;
-    font-size: 28px;
-    margin-top: 30px;
+section {
+    background: #fff4b8;
+    margin: 20px auto;
+    padding: 20px;
+    width: 75%;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px #b8c9d6;
 }
 
-/* Paragraphs */
-p {
-    color: #800080;
-    font-size: 18px;
-    line-height: 1.6;
+h1, h2 {
+    color: black;
 }
 
-/* Profile picture */
-img {
-    border-radius: 50%;
-    border: 5px solid #9c27b0;
-    margin: 20px;
+footer {
+    background: #ffd6e5;
+    padding: 10px;
 }
